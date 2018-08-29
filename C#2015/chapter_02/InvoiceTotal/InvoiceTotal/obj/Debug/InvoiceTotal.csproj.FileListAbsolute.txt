@@ -1,0 +1,10 @@
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\mcmac\dev\Samples\C#2015\chapter_02\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
